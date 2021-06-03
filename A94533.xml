@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theavrau Iohn his epitah [sic] and Evrops looking-glass</title>
+            <author>Tany, Thomas, fl. 1649-1655.</author>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94533</idno><idno type="EEBO-CITATION">99897695</idno>
+  <idno type="VID">170907</idno>
+  <idno type="EEBO-PROQUEST">2248511240</idno>
+  
+            <idno type="STC">Wing T152D</idno>
+            <idno type="STC">ESTC R232309</idno>
+            <idno type="PROQUEST">99897695</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897695e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2520:18c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theavrau Iohn his epitah [sic] and Evrops looking-glass</title>
+                  <author>Tany, Thomas, fl. 1649-1655.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Tany by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Dated at end: April the 8. 1652.</note>
+                  <note>Bound and filmed with Wing T152A, Wing T158, and Wing T156.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian literature --  Early works to 1800.</term>
+               <term type="topical_term">Jews --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:170907:1"/>
+            <head>THEAVRAU IOHN HIS EPITAH And EVROPS Looking-glass.</head>
+            <opener>
+               <salute>DEARELY BELOVED,</salute>
+            </opener>
+            <p>Brethren the Divine light hath taken its Regency <hi>in the Son<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of men, and from God is this Divine guift;</hi> ORI AL, that is this lig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> angel: this <hi>Angel light come, to enlighten the darke world in man,</hi> or have stated a conjunctive word which is this <hi>Mikrakessoamoas,</hi> th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is thus defined or Englished; <hi>it is somthing lovely inclosed in darkness,</hi> which <hi>the Spirit of God in man,</hi> and from that light which is rhe first fruites un<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God, is that received and declared and sounded forth, for the sound go<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> before the Judgment cometh.</p>
+            <p>Now Light is the declarer of Darknesse, &amp; Darknesse is the accuser of ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for in strength there is no accusation but sin and weaknesse is allwaies clam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rous and accusing Now I Theaurau Iohn come in the <hi>HIPOSTICAL ALLI</hi> the English is this; <hi>The Searcher for darknesse in the Rooted Root</hi> the <hi>ANTE-VIA, or the before way,</hi> them two lattin words as they stand
+<pb n="2" facs="tcp:170907:2"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Sate; their definition is unfathomable, for in their significatory Extent, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey exclud <hi>the Heriscope,</hi> and reach into <hi>ALLAH HOIRE</hi> define them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords, and then you may behould <hi>Theavrau Iohn</hi> in the Inmost Temple, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here there is no voyce but behoulding, and no speaking nor expressing, for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at is vanity which is the clothing of mortality. O! <hi>ACKKLAH-SABIE,</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e English is this; O! thou Shutter in thy rest, thy prisonre in his birth, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ussrharim arni pelah aluah horat o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the English, is O! <hi>England,</hi> O! <hi>England, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Rootes are searching into, by that Eye that cannot be deceived; for thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niquity is great, great, great, before my God, and a Watchman, &amp; an Hewer, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> set against thee</hi> to preach thy Funerall, for thou art Dead though thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inkest thou art a live.</p>
+            <p>O! Ye that are the accounted <hi>Eyes, directors, and Seeres</hi> for the people, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow I come to try you; for if the <hi>Eye</hi> be dark, the body must be imperfect <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sight; now what are ye, you answer, <hi>Ministers of the Gospell of Christ,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell. I am <hi>a Priest of the Law, and an Apostle in the Gospell,</hi> my expession is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raing, but on the event let the people Judge. Now I will give you my difini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on thus; I am a <hi>Priest called by that Eternall word,</hi> which <hi>word</hi> in his <hi>HORI<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>PHE ARE it is ROKAS,</hi> that is the <hi>Strength, Word, Root, God, the Crea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r of all things;</hi> Now <hi>my</hi> demonstration is this, I am a <hi>Priest the first in this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew birth, borne and brought forth form that radicall Root, which is Life, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmortality it selfe</hi> living in him selfe, behoulding him selfe in us, &amp; wee in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im both Celestial <hi>Alliah Saby Ory Hesseon Or Oni Am</hi>
+            </p>
+            <p>The English of this dubeous state is this, <hi>the doubtfull man wandereth till <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Center take him, then he seeth the fearfull vanity that he hath passed thorough,</hi> which is the <hi>Eye</hi> of the <hi>Priest,</hi> for the <hi>Priest is</hi> the <hi>Eye</hi> of the <hi>Law,</hi> the <hi>Law</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the life of the <hi>Priest,</hi> so then heere you have in the <hi>Priest</hi> the <hi>Law,</hi> and the <hi>Law</hi> the <hi>Priest,</hi> what is this I answer it is the <hi>Reserrection of God in man,</hi> man <hi>made obedient to God by that light, that he hath received from God, that</hi> light <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Gods Law</hi> wrot in the heart of the <hi>Priest,</hi> the <hi>Priest</hi> is <hi>the Eye in that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw, what is an Eye, it is sight, what is sight, it is Obedience,</hi> what <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Obedience,</hi> it is <hi>Love,</hi> what is <hi>Love,</hi> it is <hi>Life,</hi> what is <hi>Life,</hi> it is <hi>Jehovah <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Aluah Hoarim,</hi> then to be a <hi>Priest</hi> in the <hi>Law,</hi> it is to be in <hi>Jehouah,</hi> which is the <hi>Life</hi> of the <hi>Law,</hi> and God himselfe. So much for my definition in my <hi>Essoyne</hi> or in my <hi>Priest Office</hi> by, or in the <hi>Law.</hi>
+            </p>
+            <p>Now I come an <hi>Apostle</hi> in the <hi>Gospell</hi> which is <hi>Massah,</hi> or <hi>Jesus; Appostalie Regie Adma Hosaret Regina Via Eorum;</hi> the english is this <hi>the, Appostles are Christs Reserrection of this Regnecy,</hi> who by him are one in him by light from God, so when <hi>Paul</hi> and the rest knew the <hi>Reserecton of Jesus;</hi> then the beg<g ref="char:EOLhyphen"/>gerly Rudiments were cast by as Childishness, then their was a going on un<g ref="char:EOLhyphen"/>to
+<pb n="3" facs="tcp:170907:2"/>
+               <hi>perfection which is the spheare I move in, and not in a poore clay house, in wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the beauty</hi> Excelency did appeare, I meane that body that Suffered at <hi>Ierus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lem, Cristus Non Dia Sed, Viva Vita in Rens Magih,</hi> the english, is <hi>Christ is not Appearing day, and then night;</hi> but a <hi>living life of greatness. and Excelenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Now Brethering I beseech you <hi>observe these two Maximes.</hi> 1. <hi>God could <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be man, for man is a thing created and made, and that cannot be God; but G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is he that made and Created that Appearing thing, which we call man; for wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is borne of flesh is flesh, though to give, your you owne Conception, or Conceiving Jesus in your owne Bookes, yet doe you, &amp; the whole world know that Mary, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> say was the Mother of God,</hi> if your expression be true, she <hi>can be noe lesse, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I beseech you</hi> remenber she <hi>Mary; I meane, was but flesh, and what is borne flesh is flesh,</hi> so saith the true Scripture, and <hi>flesh and blood cannot Inhear<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eternall Life;</hi> now know that he that was born of <hi>Mary</hi> was flesh and in that <hi>flesh. Borne of her did Jesus appeare; for Jesus is n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nor never was an out side body,</hi> but an <hi>inmost or inward annointing</hi> that Crusifies by his Subjecting poewr, <hi>the out side man unto Obedience unto t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> inside or inmost spirit,</hi> for no man can see <hi>Jesus</hi> but by the <hi>effects;</hi> for <hi>Jes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is a spirituall annointing,</hi> and not a visible Carnality: But <hi>Jesus</hi> is the subdue of Carnallity to the <hi>Divinity, being ressident in the Carnall forme,</hi> which <hi>Devi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or Divinity is the harts Senter,</hi> in which it is made upright, and <hi>actions anser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble to the Senter doth issue into the Declarations.</hi> One instance I give touchi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Carnality of <hi>Jesus</hi> as you acknowledg and it is this, it is said <hi>that Jes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> offered up a willing Sacrifice for us;</hi> this is true but look into the very <hi>wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them selves</hi> and they are these; for <hi>Roome</hi> hath not shut in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> translation all the light out, but the <hi>Eye of light doth discover</hi> betwixt <hi>to joynts</hi> in the closure of that <hi>Gospel;</hi> now here is the light that descovers <hi>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cheat Couched</hi> in these words, and implyed the quit contrary to the tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meaning of <hi>the Spirit,</hi> these are the words <hi>FATHER if it be thy will that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cup may pass from mee:</hi> why I beseech you bretheren for <hi>the mercy sake</hi> con<g ref="char:EOLunhyphen"/>sider rightly, for these was none of your <hi>Saviour Jesus his words</hi> as you li<g ref="char:EOLunhyphen"/>teraly understand; but these ware and are Jesus his words, <hi>not my will but t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will be done, and submitted,</hi> for Jesus is the power of God submitting <hi>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto himself.</hi> The second maxim is this, God is a spirit, Jesus is the same: <hi>and my Father am on,</hi> it was not that <hi>appearance</hi> neither, that <hi>sound or voy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that was one with the father; but it was the <hi>tye life,</hi> or <hi>life tye,</hi> that is the <hi>O<g ref="char:EOLhyphen"/>bedient Essence</hi> in man made <hi>light,</hi> which <hi>light</hi> cannot be spoken, for it is <hi>spirituall</hi> behoulding, that <hi>spirituall behoulding</hi> that' <hi>Euen</hi> that; was it th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was one with the Father, that and the Father are one, and not <hi>a man</hi> nor
+<pb n="4" facs="tcp:170907:3"/>
+               <hi>yee,</hi> neither any <hi>apperance,</hi> but that, that is one with the Father; it is <hi>ORY<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>L</hi> that is <hi>the light all, the all light,</hi> &amp; that <hi>light is the living life moveing</hi> in all <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at are <hi>risen</hi> in the <hi>Jesus Reserriction</hi> which is <hi>MOVNT SION.</hi> So when you <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e come unto <hi>mount Sion,</hi> then you will know what I write; for my <hi>Sheep <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</hi> k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow me, and my voyce is the <hi>Crown</hi> of their <hi>Lovely injoyment,</hi> for let <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e tel you you, you darke Gentiles, it is a <hi>voyce runing in</hi> the Vaines of <hi>life</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thering us all into one, one into all; for in light there is bvt one, and wee in one another, and all in God by that free gift of his grace given unto us reconcile us one to annother, and so all to God.</p>
+            <p>Now ye <hi>Ministers</hi> of the <hi>Gospell</hi> in <hi>England</hi> I come to try you by the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>spell, now take this in the first place, all truth is but one Gospell,</hi> for there is <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> truth &amp; deceipt or alye,</hi> in the whole world, althouge demonstrated vari<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sly in various forms and fashions. Now the first queerie is this.</p>
+            <p>How can you <hi>Propagate the Gospell, when you know not the Gospell.</hi> I proove thus, in that word <hi>Propagating the Gospell,</hi> yee doe not <hi>know the Gospell;</hi> for yee were <hi>in the Gospell, or knew the Gospell,</hi> then you would know that it is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ods free gift and mercy, not comming by meanes or endeavor: <hi>But Gods <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e gift Conferrd without mans desert,</hi> on whom the Lord pleaseth. I pray <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u now where is your <hi>Propagating</hi> the <hi>Gospell;</hi> the way that leads to the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>spell is Christs light, and that casts out Covetousness, that's the first step; for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uetousness</hi> is the Root of all evill, &amp; that Root is so deeply Rooted in you <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eists</hi> or <hi>Ministers of the Gospell,</hi> and also as deeply <hi>Rooted in the States of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd; that that glory, Gospell, or Gospel, glory arises</hi> in another people, for that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>Covetousness (Exce) unroots you, both Priests, and Stats, for being rooted the Gospell.</hi>
+            </p>
+            <p>
+               <hi>The Second queery it is,</hi> Affirmative prooving that you never knew <hi>the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>spell. nor the Stats, nor the called Parliament, neither of you both.</hi> I prove it <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s; <hi>The Gospell is Peace, yee are in Warr, and provokers to Warr, there: in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m Spirits, the Gospell was never</hi> rooted, <hi>(Id est) primus Makxzi.</hi>
+            </p>
+            <p>How how did yee <hi>Priests</hi> thunder in your trade <hi>of lyes,</hi> in these expressions, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat was not for the <hi>Gospell</hi> let <hi>him be accursed,</hi> and he that would not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t for the <hi>Gospell was none of Christs,</hi> was not this your Baal trade of <hi>lyes?</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you bin <hi>Preists of the Law,</hi> then you might have had some Colour to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Acted under: But you are as yee call your selves, <hi>Ministers of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>spell, and if you be Ministers of the Gospell,</hi> so is <hi>Appollion or the Deuill;</hi> for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s the root yee grow upon, I proove it thus from your own words, he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t would not goe &amp; fight for the <hi>Gospell</hi> could not be one of <hi>Christs flock,</hi> you remember this <hi>Cheat</hi> you put upon the poore <hi>Innocent</hi> &amp; <hi>Ignorant</hi>
+               <pb n="5" facs="tcp:170907:3"/> people? now in them words their lyes a perfect deniall <hi>both of Christ and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gospell, For Christ and his Gospell is peace</hi> in <hi>love;</hi> &amp; <hi>love</hi> in <hi>peace</hi> &amp; know al p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ple <hi>that Peace is not Warr, &amp; love is not in slaying one another,</hi> for your ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>selfe ends,</hi> and your hooke baited to take the simple innocent men with <hi>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Baite Gospell. But as the Lord lives ye shall drinke deep</hi> of your <hi>Fornicationus co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> that you have bewi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched, <hi>&amp; foxed, &amp; made the Nation drunke withall;</hi> for yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day is at hand which you through the <hi>Eye of your Sophestry</hi> perceive th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> makes you two <hi>theevish lyars,</hi> bring your difference<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to beare <hi>a face of bein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reconciled both into one,</hi> and it is but thus much <hi>yet Priests,</hi> in the truth o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your intentions it is, because you see your trade begins <hi>to decay, &amp; the colou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of propagating, the Gospel may from the States</hi> procute a humain <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>forme, &amp; s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Law to bind men in obedience <hi>to that forme, when indeed it is your designe o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> strenghten your selves by that Law obtained</hi> in your <hi>trad of lyes,</hi> and so <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hold the people in obedience unto your selves, and this is your sole an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole end and aime in the <hi>propagating of the Gospell.</hi>
+            </p>
+            <p>Thus know all people that a <hi>Law</hi> may be given to cause the outward <hi>man</hi> to walk formable; but no man can give a <hi>Law</hi> to cause obedience in the <hi>in<g ref="char:EOLhyphen"/>ward spirit,</hi> for that is <hi>Spiritual</hi> and <hi>Gods place</hi> of <hi>Regency,</hi> he that will forme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>law,</hi> for that; he is the <hi>Highest</hi> and <hi>Greatest Antichrist</hi> that ever was; fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he assum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s unto himself <hi>Gods Royalty</hi> of <hi>Regency.</hi>
+            </p>
+            <p>So then make you a <hi>law,</hi> for that which is <hi>lawable,</hi> that is the <hi>outward man,</hi> and make it as strait as you will in all points; for they in whom the life <hi>of Christ is truly rison</hi> they will fulfill it; for know love doth no evil to any man, but lives in its own <hi>Behoulding,</hi> and in that <hi>Behoulding</hi> it <hi>rejoyce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> continualy.</hi> So then you see the <hi>Jewes</hi> are obedient unto your <hi>Lawes</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your <hi>Land,</hi> then do not you force a <hi>Formall Cheate called Relig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> upon the people; for it will prove the highest Idolatry that ever <hi>arose,</hi> that upon the <hi>Resurrection</hi> of <hi>light</hi> you will put a darke decevable vaile, but yee are like your fore-Fathers; for they persecuted the <hi>light,</hi> and so do you.</p>
+            <p>Now I come to <hi>Charge</hi> the <hi>States</hi> of the <hi>Land,</hi> and unto them I shall but name their own <hi>Words,</hi> and them <hi>Words</hi> confirmed by <hi>Oathes,</hi> and the gre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Jehovah</hi> called to witness what they <hi>Protested</hi> unto; now comes the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Tryall</hi> that <hi>Tryes</hi> you all: Now if you be in the <hi>Truth</hi> what you <hi>seemed,</hi> nay <hi>Sayd,</hi> nay <hi>Sworne</hi> unto, you cannot be offended at your own <hi>Oathes pro<g ref="char:EOLhyphen"/>ceeding</hi> from your own <hi>lips,</hi> and the <hi>Invocation</hi> of <hi>Jehovah</hi> to beare <hi>Record,</hi> and know that he is the true <hi>Record</hi> of all your <hi>actions.</hi> The first was for the <hi>Gospell,</hi> O! how would you defend that; now known <hi>yea Stats</hi> that the <hi>Gospell</hi> containes in it all <hi>Truth</hi> and <hi>Holiness</hi> which you said would be <hi>de<g ref="char:EOLhyphen"/>stroyd,</hi>
+               <pb n="6" facs="tcp:170907:4"/> and <hi>Popery</hi> brought in; <hi>all this cheat I remember,</hi> but then I was not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rought <hi>in to light;</hi> for know by your standing to <hi>defend</hi> the <hi>Gospell,</hi> you Declare you know not the <hi>Gospel,</hi> for the <hi>Gospel</hi> cuts down all <hi>standing</hi> in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, and upon <hi>the death of</hi> mans own <hi>standing</hi> the <hi>Gospel</hi> is <hi>planted, &amp; Rooted;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or mens <hi>Death</hi> is the <hi>Gospels life.</hi> Now in the <hi>Gospel</hi> there is no feare of <hi>Popery,</hi> for the true <hi>Gospel</hi> is that <hi>holy Annoynting</hi> that turnes <hi>Popery,</hi> and <hi>Independancy,</hi> and <hi>Presbtery,</hi> &amp; <hi>Anabaptistery,</hi> &amp; <hi>Armininisme,</hi> and the rest of these <hi>dark deceipts</hi> into <hi>one light</hi> which is the <hi>Gospel,</hi> and then all these <hi>Sects</hi> are <hi>unsected</hi> &amp; made one <hi>light,</hi> which is but still the <hi>Gospel, the word Gospel,</hi> the true English that it holds in its Imbodiment, it is thus much deri<g ref="char:EOLhyphen"/>ved from the <hi>Word Gospel, it is Gods Saved, or Gods Chosen,</hi> so much lies in the <hi>Word Gospel.</hi> The Hebrew word radical is <hi>KIO</hi> wrot in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>KOF</hi> not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>CAPH,</hi> for <hi>KOF</hi> signifies <hi>strength</hi> in <hi>knowledg,</hi> now had this <hi>strength</hi> of <hi>knowledg</hi> been <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n you, you had stood in the <hi>rooted root,</hi> but because this <hi>root Knowledg</hi> or <hi>Knowledg root,</hi> was not in you, that causes alwayes Feare, and from Feare all evil. <hi>Actions proceeds,</hi> and <hi>feare is not Love.</hi> Then their is no <hi>light, but darknesse consists,</hi> from whence comes all these <hi>Cheating Declaratiues</hi> unto, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and upon the <hi>Nation?</hi> it is from this state of <hi>feare,</hi> I prove it thus, God is <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove,</hi> feare is <hi>hate,</hi> light is <hi>love, love</hi> is <hi>light, darknesse</hi> is hate; so then <hi>love is the Law of God;</hi> feare and darknesse is the law of the <hi>Divill,</hi> and this is the State you lye in; that makes you <hi>to say</hi> and <hi>unsay, sweare</hi> and <hi>for sweare,</hi> pro<g ref="char:EOLhyphen"/>mise and <hi>desceive,</hi> protest and in that protest, intend to <hi>Cheate</hi>
+            </p>
+            <p>The next, was for the <hi>Liberty of the Subject,</hi> and the Law of the Land; Now I come into your own root, to Argue with you, and in your own Method of words, but your Actions are murderors of your <hi>words, probatum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est</hi> from your Declaratives; Now the <hi>law in truth of law in his intent,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is to right all men: and indeed it is right to all men if its motion, be in its own <hi>wheels,</hi> for know an <hi>Administrator</hi> of the <hi>Law,</hi> he is to sound the <hi>Law</hi> in the <hi>Laws</hi> own words and terms, both in intent and extent, and the <hi>Administrator</hi> of the <hi>Law</hi> is to be onely a Pipe in which the consent and <hi>Agrement of the People</hi> is to pass through, and be he what he will be, <hi>Great</hi> or <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wall</hi> that <hi>sounds</hi> not the <hi>Law</hi> so; he is a <hi>Traytor</hi> to the <hi>Law</hi> and <hi>People</hi> pre<g ref="char:EOLhyphen"/>sent, and ought to dye without <hi>mercy,</hi> because he becomes a contemner of the <hi>Conjunctive meaning</hi> of the <hi>People,</hi> and gives his own <hi>will</hi> for the <hi>true Law</hi> of the <hi>Land;</hi> but when truth arises and <hi>calls,</hi> the <hi>Administrators</hi> of <hi>Justice</hi> to an <hi>account,</hi> which day is not far off; our eyes shall see it performed, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that day there will be made many places of <hi>Judicature</hi> empty, This I know; and all yee people that are oppressed, be yee comforted, even yee which we
+<pb n="7" facs="tcp:170907:4"/> our selves call Cavaleers; <hi>For as the Lord lives</hi> ye shall have a true <hi>Demo<g ref="char:EOLunhyphen"/>stration</hi> of Right, in Waight, and measure don unto you; But NO KING but by the power of the <hi>Lord,</hi> changing men, for though ye have bee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>openly prophane,</hi> and delghters in <hi>vanity,</hi> for that hath the Lord scourged you but we, <hi>even</hi> we, are more theivishly wicked, for we have not only slain ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Enemies,</hi> but <hi>cheated our Friends,</hi> and brought the <hi>state of perjury upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole</hi> al altogether, that intrusted us, and have made ourselves the <hi>Scorn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Nations,</hi> the <hi>cheat</hi> of the <hi>people,</hi> the <hi>Abstract</hi> of all <hi>cruel villany,</hi>
+            </p>
+            <p>I demonstrate from my <hi>Light</hi> thus; First, We covenanted and sword to <hi>that,</hi> then we <hi>unswore</hi> that and never performed it, which yet shall stand to the rooting out of all <hi>self-seeking</hi> men in the <hi>Nation, out, out, out, by the roots,</hi> and a <hi>Wolf,</hi> man, <hi>a man</hi> Wolf that is a <hi>Devourer</hi> of his Brother, he shall not be left to inhabit amongst us; This is a strange saying <hi>wrot,</hi> But it is from trve light.</p>
+            <p>Now know the <hi>Conjuncture</hi> of the people, if by them it have a being, It is the <hi>beauty, excellency, glory, honour and honesty celectd</hi> out of their whole all, altogether; This so chosen, is the Representative of all their glory, in whom their trust and confidence is reposed. Now this so chosen, and so seat<g ref="char:EOLhyphen"/>ed, it is in England called a Parliament,</p>
+            <p>Now I hope I shall <hi>offend</hi> none that now <hi>sits,</hi> for I speak in the truth of the <hi>Nations,</hi> true birth-right linially discending, duely <hi>conjoyned,</hi> and of <hi>right chosen, Magna Charta</hi> being their <hi>foundation-stone</hi> or <hi>Center.</hi> Now if yee be <hi>offended</hi> by thar, I know you to be but <hi>shaddows,</hi> for if ye be t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, then no <hi>of<g ref="char:EOLhyphen"/>fence;</hi> for it is a shadoe or weakness that is jeolous or offended, for truth is strong standing Centered in the main <hi>rock,</hi> which is God, for God is <hi>Truth</hi> who hath been made a Colour to colour all your false, falices under, <hi>&amp; for his glory alone I contest with this Nation</hi> only to charge it with the works wrought in it, then my work here is done, <hi>for judgement follows the sound,</hi> but men by the sound shall be left without excuse.</p>
+            <p>Now once more ye <hi>States</hi> have wronged me and my choise in the Parlia<g ref="char:EOLhyphen"/>ment for which I ought to be satisfied, thus; My choise, I chose I faithfully stood to defend, till a choise was chosen by a stronger hand, which violated my choyce and how many more I know not; but this I know, that in that chousing, was not the Law, nor the righr of the Nation included, but <hi>then our Servants became our Masters and Lords ouer us,</hi> violating all our birth rights, Law and Liberty, the which things <hi>they before had Covenanted in solemne Oath to maintain,</hi> calling God to witness, who (<hi>as</hi> I said before) is a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive <hi>witness bearer,</hi> and this I know, <hi>he will Rase out all Perjury out from
+<pb n="8" facs="tcp:170907:5"/> amongst us,</hi> for God, will purge, till a peculiar people come forth, that shal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>read your Idols of Gold &amp; silver, &amp; Lands &amp; <hi>Esteeme,</hi> that <hi>esteeme</hi> is a great Idol in England; But this people that God will raise, shal tread all these under their feet, not esteeming that <hi>which you onely worship,</hi> overthrowing all that you sowre to maintain, onely advanceing yourselves, by the same law and way that you have condemned others to death for, therefore I beseech you remember, he that <hi>puteth</hi> another <hi>to death,</hi> and he himself doth the same things that he condemned the other to <hi>death</hi> for, doth not he give sentence against himselfe? I pray you whome these words concerne, Remember and repent and returne. For know there is no transgression before there be a law, onely in England is this iniquity found, as a girdle girt upon her loines, &amp; wo woe! woe unto this hypocriticall Nation, this all tounged Nation But de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds of mercy in her are not found, <hi>the glory of her beauty is so bewitched for and with gain</hi> that her faith, her oathes, her covenants, and all her protesting, Calling God to witnesse is become a trade to be bought and sould for 3 s, 4 d a pound, which is the Laborours wages, your brethren the Lords workmen, whom you have thus deceived, And your selves the purchasors of your own willfull fallen Credits, and the Nations honour also, <hi>If ever they intrusted you with it;</hi> mistake me not, there is honest Godly men, but they are in minority and overcome by woluish plotters, whose hands Gods Judgment will find out, and bring them to their due desert; mistake me not, I am none of your <hi>Sects,</hi> I am a <hi>Jew</hi> both outward, and inward, a <hi>Priest;</hi> What is that? It is indeed the light raised out of the Gentiels <hi>dark</hi> root, for to charge the transgression upon the land, and to <hi>make it culpable before my God,</hi> that <hi>Judgement</hi> might enter upon his throne, for heavy days, and days of mour<g ref="char:EOLhyphen"/>ning for Iniquity is at hand, and though the Priests condemne the <hi>A<g ref="char:EOLhyphen"/>strollagers,</hi> take this from me, that am a man vnlearned in any art or tongue, <hi>Arki, Vea, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rni, Ophrat. Al, Sabi, Arni, Ory Alpha, Am, O Threapha, Alba Army Arrat.</hi>
+            </p>
+            <p>The English is this <hi>Harke,</hi> I hear a crying sound of Confusion in the land, the Priests dispise the Creation of God, which is the Signes of the Firmament, which signes are the true, truth, in Gods writing-table, and are the true readings, unto men from God, that is the English from that con<g ref="char:EOLhyphen"/>joyned <hi>abstracted language</hi> into one canjunctive <hi>radical root.</hi>
+            </p>
+            <p>A word unto ye Priests; first know you are confuted in your Clamour<g ref="char:EOLhyphen"/>ing, by this argument. If ye were able to define the <hi>Dictatings</hi> of the Stars in their several <hi>oprative motions,</hi> then knowledge it self would silence you; but in this appears your madness, to condemne the maxim, that the <hi>Root</hi>
+               <pb n="9" facs="tcp:170907:5"/>
+               <hi>Root</hi> you are not able to discover, or rase to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> clear <hi>perspicuous Demonstrative;</hi> therefore it is madness beyond oppression, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you to sentence, a thing you understand not. Let me tell you, <hi>Ora sam selex si vea sabini in rem;</hi> the meaning is this, <hi>The Hand</hi> pointeth to the <hi>Dial,</hi> but the <hi>Dial</hi> re<g ref="char:EOLhyphen"/>turneth not to the <hi>Hand,</hi> because the Hand is motional, the <hi>Dial fixed;</hi> So take notice, a Seal is set to a Bond, it is quikly done, and the Insert, is locked up, but there many times proves much sighing a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Bond in again; thus it is with man. But I state it allusive or allegories <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pointing to a higher Illustrative, that is, Gods Seal never alters, for his <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> truth, it stands firm.</p>
+            <p>Now ye, <hi>despisers</hi> and <hi>wonderers,</hi> it is the <hi>want</hi> of wisdome that causes you to asperse; but be ye sure, before the revocation of the inscalment, deno<g ref="char:EOLhyphen"/>ted by the conjunction, of or in, this Eclipse, <hi>it will be lamentable, wofull, and great mourning and devastation:</hi> So that he that is exempted from sor<g ref="char:EOLhyphen"/>row in this conjunction concerned, he must be <hi>Celestial,</hi> for no lesse will be <hi>security</hi> unto any: Then <hi>your forms of Religious Holiness</hi> that <hi>Cheat,</hi> will <hi>vanish</hi> as the <hi>untimely Birth</hi> of a <hi>woman;</hi> for a tryal for <hi>flesh and fleshliness</hi> will from Heaven be demonstrated, then shall ye <hi>Iews</hi> my people, be brought sorth as the refined of the Lord, fit to be possessed, ye being weighed up from the <hi>earth,</hi> or the <hi>earth</hi> weighed from you; for until the <hi>tincture</hi> of Evil be cast forth, <hi>Righteousness cannot be acted;</hi> for we must be delivered from, before we can be interested in. <hi>Selah.</hi>
+            </p>
+            <p>O my Brethren, I your Brother <hi>Ruben (Theaurau Iohn)</hi> have declared my received of the Lord, which is the <hi>Tryumphant</hi> State, that the <hi>Iews</hi> here shall be possessed in their return, God will manifest his <hi>auncient Glory,</hi> and in that <hi>very peece and parcel of ground</hi> that hath had its <hi>Sabbaths</hi> of <hi>sor<g ref="char:EOLhyphen"/>row, tim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s time, and the half time,</hi> witnessed by <hi>Daniel</hi> my brother, by the <hi>dictatings</hi> of the Spirit in him, and the rest of the <hi>Prophets</hi> so long ago. Bre<g ref="char:EOLhyphen"/>thren, I am as a woman in strong travel for your birth which is to be brought forth; but beloved my God hath comforted me, for he hath shewed me this figure, that strength is in thee, from <hi>himself,</hi> and that thou commest forth like strength, birth, birth, strength, even comparatively, as a Child in the Womb, by t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> strength of his arms, should open the <hi>Matrix</hi> in which he is <hi>locked,</hi> and come forth in <hi>Majesty.</hi> So even, so, my beautious <hi>Brethren,</hi> I see you com<g ref="char:EOLhyphen"/>ming. <hi>O Hallelujah Samoas arby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory Celestialis sabinai</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>naim;</hi> O? peace is thy <hi>loveliest Garment,</hi> that thy <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> withal, and nothing shall be wanting, to make thee th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Beauty,</hi> and <hi>Princeliest, Princesses</hi> of all the <hi>pro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:170907:6"/> promised unto thee; the <hi>time,</hi> the <hi>time,</hi> the <hi>time</hi> is come, thy <hi>Shep<g ref="char:EOLhyphen"/>heard</hi> and <hi>Watchman</hi> beholdeth thy beautious <hi>Inheritance,</hi> it is <hi>Naim, na<g ref="char:EOLhyphen"/>im, naim,</hi> it is <hi>Arki naim felexsi or,</hi> it is <hi>Arma horaiah saby ad te;</hi> there is no English that can <hi>denote</hi> these <hi>states</hi> in their full import, but the Maximes will be <hi>Eclipsed</hi> in their <hi>Beauty,</hi> onely I give you this hint, it is, Glory, glory, glory to the twelve Tribes, but now in this return thirteen Tribes, we are increased in the North, as my next Book, which is already wrote, it doth illustrate.</p>
+            <p>Now all people, whereas I wrote an Epistle in which I challenged the <hi>lying Cle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gy</hi> of England, upon the 5 of April in Pauls Church, offering a fair dis<g ref="char:EOLhyphen"/>pute unto them, at which place, I was in the morning, and put up my bill signi<g ref="char:EOLhyphen"/>fying to appear at three of the clock that day, in the mean time the <hi>seduced spi<g ref="char:EOLhyphen"/>rits</hi> had obteined strength and power, to shut the doors and keep the people out, so when I came the doors was shut; now hear I shall claim my privi<g ref="char:EOLhyphen"/>ledge, as a <hi>free man</hi> of this City, and all the rest <hi>in my right included.</hi> First know you that we chose no private Congregation, but the <hi>Cathedral,</hi> a place free for all men and nations to meet in, and you know that there is an act of <hi>Parlament</hi> so called that <hi>authorizeth</hi> us to meet, and <hi>dispute,</hi> and <hi>confer;</hi> now here I see you deny the act to be in force, and so unto us it is made <hi>nul</hi> and <hi>void,</hi> so in this case of liberty the act stands us in no more force then an <hi>Al<g ref="char:EOLhyphen"/>manack</hi> of the year last past; now my Lord Mayor and the rest of our Gover<g ref="char:EOLhyphen"/>nours: if we meet in peace by <hi>authority</hi> of <hi>law,</hi> you are bound to <hi>proserve</hi> and keep us in peace, by your oath you have taken to the State, for know you, you are but servants unto them you receive from, and are intrusted in, you are to punish <hi>abusers</hi> of the <hi>peace</hi> and <hi>liberty</hi> of the people, and to maintain the <hi>peaceable</hi> people in peace with all your might and assistance.</p>
+            <p>And the main query is, whether I and the rest of the free-men of London, did contrary to our <hi>birth right, law,</hi> and <hi>liberty,</hi> by the State given unto us, if we kept within <hi>compasse</hi> (then;) but brethren what I offered then, I am the same, and will make my words good before all the people at any time, which words were, to prove the Clergy the greatest <hi>cheaters</hi> and <hi>deceivers, theeves,</hi> and <hi>robbers,</hi> in the whole earth, let them plot against mee what they can <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> same I will prove unto their faces, if they dare appear; but know by this non-<gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing</hi> that a <hi>ly</hi> is with them; for if they were in <hi>light</hi> then they would be <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>love,</hi> they would have <hi>appeared</hi> to <hi>admonish</hi> my <hi>weakness,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have made good my <hi>challenge</hi> against them: but it is <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: Now Priests that latine doth not please you, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ol is night in himself, and dare not come to the
+<pb n="11" facs="tcp:170907:6"/> light. Madad El,</hi> is not that Hebrew, what thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the English the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I understand neither Latine nor Hebrew, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ish; of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Madad El, God sees darknesse is a Cave?</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> why <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that are you <hi>Priests,</hi> or <hi>Ministers</hi> of the <hi>Gospel;</hi> for you are the <hi>Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath <hi>swallowed,</hi> how many I am not able <hi>to define, satis.</hi>
+            </p>
+            <p>
+               <hi>Ori el arki sab oli Arma Nephushim aga zim a Saphel Arma Hoari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sab avaran hushi vertat.</hi>
+            </p>
+            <p>To conclude all in this Hebrew state, it is this, the reason that you act so wickedly you <hi>Christians,</hi> it is because you have gotten the Apostles dead litte<g ref="char:EOLhyphen"/>rall <hi>expressions,</hi> contained in their <hi>writings</hi> which ye count the Gospel, and in<g ref="char:EOLhyphen"/>to them dead <hi>names</hi> you have formed your <hi>selves;</hi> but the Apostles they were that converted substance, from whence your <hi>name Gospel</hi> did pro<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>They knew in the <hi>holy</hi> light, the <hi>divine truth</hi> which <hi>truth</hi> was their souls <hi>center,</hi> and from that <hi>light</hi> received, the <hi>holy life sanctified did proceed,</hi> and from their <hi>souls centered,</hi> and their life <hi>sanctified,</hi> did that <hi>sound,</hi> which ye call the <hi>Gospell</hi> proceed, now ye have taken the <hi>sound, Gospel,</hi> from their <hi>words,</hi> and without the <hi>life</hi> that they <hi>lived</hi> the <hi>sound,</hi> it had been a <hi>ly,</hi> so you being but <hi>sounds,</hi> which sounds, without an <hi>holy life,</hi> is but a <hi>ly,</hi> and a <hi>deceipt,</hi> a <hi>dark De<g ref="char:EOLhyphen"/>vill,</hi> and no better, being <hi>unchanged,</hi> the name <hi>Gospel</hi> is a <hi>ly,</hi> but the change <hi>Sanctity,</hi> and the life <hi>Purity,</hi> it is the <hi>root, life eternall planted</hi> in you, that is it, that makes you <hi>act</hi> in <hi>obedience,</hi> the reason that the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apostles and the <hi>primitive Christians</hi> did walk so holily, it was the <hi>Gospel</hi> taking them in to it self) the reason that we live so <hi>wickedly,</hi> and almost all men <hi>Preachers,</hi> it is because we take the Gospell into us) now what man can take unto himself, it is but a <hi>name</hi> and a <hi>name</hi> is a <hi>ly,</hi> and this State is all you taking Gospellers in; for he whom the <hi>true Gospel</hi> takes, he is turned from <hi>covetousnesse,</hi> I prove the Gospell hath not taken you, because in <hi>covetousnesse</hi> ye <hi>remain,</hi> now in this small Tractate from that Hebrew state, is let down by the spirit of the Lord for a Looking-glasse for <hi>Europe,</hi> in which glasse they may see that they are but the <hi>Ideas</hi> of the true <hi>Gospel,</hi> for the shadows differs and contests, but <hi>truth</hi> binds all together in <hi>love,</hi> which is the <hi>light</hi> of God risen in <hi>man,</hi> and you may know what you want <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thus deceitfully act.</p>
+            <p>Now hear I hope I shall offend none, for <hi>na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they have <hi>done;</hi> for know if ye do judge me <hi>pun<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:170907:7"/>
+               <hi>things</hi> you your <hi>selves</hi> have <hi>done. What deserve you, that have done the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ngs,</hi> that you are offended <hi>to hear</hi> of the <hi>name.</hi> States, and people, in <hi>dark<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s,</hi> they are but one <hi>darknesse</hi> to me; if not <hi>light,</hi> then you are <hi>dark,</hi> and that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e nation is <hi>sufferingly sensible</hi> of.</p>
+            <l>Vnto what I Write I subscribe my Name</l>
+            <l>And let me be fairly questioned, I will to your faces prove the same.</l>
+            <closer>
+               <signed>VVrote by me <hi>(Pheaurau Iohn) Taniour,</hi> of Eltham.</signed>
+               <dateline>
+                  <date>April the 28. 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.
+<figure>
+                  <figDesc>seal</figDesc>
+                  <head>Theaurau Iohn tanyour High priest &amp; recorder of y<seg rend="sup">e</seg> 13 tribes of y<seg rend="sup">e</seg> Iewes for y<seg rend="sup">e</seg> Cap writes Returne</head>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
